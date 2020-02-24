@@ -1,0 +1,2 @@
+# DayNote
+Daily work record
